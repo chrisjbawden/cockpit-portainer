@@ -30,6 +30,11 @@ sudo sh quick-deploy.sh
 
 ## ⚠️ Note
 
+Browser security controls may hinder the pages ability to load without the user first acknolodging the self signed certificate.
+
+<br>
+<br>
+
 If you're looking for dedicated Docker management within Cockpit, check out my [Docker Manager](https://github.com/chrisjbawden/cockpit-dockermanager) project.
 
 ---
