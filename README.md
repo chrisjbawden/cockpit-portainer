@@ -1,27 +1,28 @@
-<div align="center"><h1>Cockpit Portainer iFrame</h1></div>
-<br>
-<br>
-<div style="width: 90%;" align="center">
-<img src="https://github.com/chrisjbawden/cockpit-portainer-application/blob/main/misc/Image%20001%20-%202024010658.png?raw=true" alt="portainer cockput iframe">
-</div>
-<br>
-<br>
-<hr>
-<br>
-<br>
+  # Cockpit Portainer iFrame
 
-<h3>Quick install</h3>
+  ![Portainer Cockpit iFrame](https://github.com/chrisjbawden/cockpit-portainer-application/blob/main/misc/Image%20001%20-%202024010658.png?raw=true)
 
-<code>sudo curl -fsSL https://raw.githubusercontent.com/chrisjbawden/cockpit-portainer-application/main/quick-deploy.sh -o quick-deploy.sh | sudo sh quick-deploy.sh</code>
 
-<br>
-<br>
-<hr>
-<br>
-<br>
-<h3>Summary:</h3>
-This is a simple addon/applicaiton for the cockpit-project which allows you to iframe portainer with the cockpit management user interface. 
+---
 
-<br>
-<br>
-<strong>Note:</strong> If your looking for simply docker management, check out <a href="github.com/chrisjbawden/cockpit-dockermanager?tab=readme-ov-file">Docker Manager.</a>
+## 🚀 Quick Install
+
+```bash
+sudo curl -fsSL https://raw.githubusercontent.com/chrisjbawden/cockpit-portainer-application/main/quick-deploy.sh -o quick-deploy.sh
+sudo sh quick-deploy.sh
+```
+
+---
+
+## 📝 Summary
+
+This is a simple add-on/application for [Cockpit](https://cockpit-project.org/) that allows you to embed Portainer directly within the Cockpit management interface via an iFrame.  
+It’s designed to make Docker and container management even more accessible from your Cockpit dashboard.
+
+---
+
+## ⚠️ Note
+
+If you're looking for dedicated Docker management within Cockpit, check out my [Docker Manager](https://github.com/chrisjbawden/cockpit-dockermanager) project.
+
+---
