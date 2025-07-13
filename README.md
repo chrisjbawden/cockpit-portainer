@@ -23,4 +23,5 @@
 This is a simple addon/applicaiton for the cockpit-project which allows you to iframe portainer with the cockpit management user interface. 
 
 <br>
+<br>
 <strong>Note:</strong> If your looking for simply docker management, check out <a href="github.com/chrisjbawden/cockpit-dockermanager?tab=readme-ov-file">Docker Manager.</a>
