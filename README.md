@@ -4,8 +4,9 @@
 
 </div>
 
-This is a simple add-on/application for [Cockpit](https://cockpit-project.org/) that allows you to embed Portainer directly within the Cockpit management interface via an iFrame.  
-It’s designed to make Docker and container management even more accessible from your Cockpit dashboard.
+This is a simple add-on/application for [Cockpit](https://cockpit-project.org/) that allows you to embed Portainer directly within the Cockpit management interface via an iFrame. 
+<br>
+It’s goal is to make Docker and container management simplier.
 
 ---
 
