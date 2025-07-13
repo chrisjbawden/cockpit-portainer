@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Cockpit Portainer iFrame
+  # 🛳️ Cockpit Portainer iFrame
 
   ![Portainer Cockpit iFrame](https://github.com/chrisjbawden/cockpit-portainer-application/blob/main/misc/Image%20001%20-%202024010658.png?raw=true)
 
