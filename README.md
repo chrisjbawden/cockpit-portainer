@@ -1,4 +1,4 @@
-<div align="center"><h1>Cockpit Portainer iFrame Add-on</h1></div>
+<div align="center"><h1>Cockpit Portainer iFrame</h1></div>
 <br>
 <br>
 <div style="width: 90%;" align="center">
@@ -21,3 +21,6 @@
 <br>
 <h3>Summary:</h3>
 This is a simple addon/applicaiton for the cockpit-project which allows you to iframe portainer with the cockpit management user interface. 
+
+<br>
+<h3>Note:</h3> If your looking for simply docker management, check out <a href="github.com/chrisjbawden/cockpit-dockermanager?tab=readme-ov-file">Docker Manager.</a>
