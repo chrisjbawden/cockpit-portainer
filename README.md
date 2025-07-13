@@ -13,7 +13,9 @@ It’s goal is to make Docker and container management simplier.
 <div align="center">
 
 <div style="width: 80%;">
+  
   ![Portainer Cockpit iFrame](https://github.com/chrisjbawden/cockpit-portainer-application/blob/main/misc/Image%20001%20-%202024010658.png?raw=true)
+  
 </div>
 </div>
 
