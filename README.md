@@ -36,6 +36,6 @@ Browser security controls may hinder the pages ability to load without the user 
 <br>
 <hr>
 
-Note: If you're looking for a more integrated docker management within Cockpit, check out my [Docker Manager](https://github.com/chrisjbawden/cockpit-dockermanager) project.
+<strong>Note:</strong> If you're looking for a more integrated docker management within Cockpit, check out my [Docker Manager](https://github.com/chrisjbawden/cockpit-dockermanager) project.
 
 ---
